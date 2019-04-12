@@ -1,2 +1,2 @@
 both
-dev_test
+dev_origin_test
