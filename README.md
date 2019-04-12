@@ -1,1 +1,2 @@
 both
+master_test
