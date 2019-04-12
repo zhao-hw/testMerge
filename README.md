@@ -1,2 +1,2 @@
 both
-dev_test
+dev_local_test
