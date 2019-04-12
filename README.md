@@ -1,2 +1,3 @@
 both
 dev_local_test
+dev_origin_test
