@@ -1,3 +1,5 @@
 both
 master_test
 dev_test
+dev_local_test
+dev_origin_test
